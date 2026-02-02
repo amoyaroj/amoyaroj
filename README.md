@@ -19,12 +19,12 @@ I am an engineer by training and a financier by choice. I specialize in leveragi
 ---
 
 ### 📈 Featured Projects
-#### 🤖 Machine Learning: Image Processing & Traffic Sign Classifier
+#### 🤖 Machine Learning: Image Processing & Traffic Sign Classifier (https://github.com/amoyaroj/traffic-sign-classifier)
 * **The Build:** Developed an end-to-end computer vision pipeline to preprocess raw image data, extract geometric features, and classify traffic signs.
 * **The Tech:** Python, Machine Learning (KNN, Decision Trees, Logistic Regression). 
 * **The Goal:** To build a high-accuracy classification system while mastering data processing techniques used in automated quality control and inventory optimization. 
 
-#### 💰 Budget Analytics Dashboard
+#### 💰 Budget Analytics Dashboard (https://github.com/amoyaroj/smart-budgeting-app)
 * **The Build:** A personal finance management tool that automates expense tracking.
 * **The Tech:** Python. 
 * **The Goal:** Bridging data automation with personal financial literacy.
