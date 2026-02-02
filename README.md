@@ -24,7 +24,7 @@ I am an engineer by training and a financier by choice. I specialize in leveragi
 * **The Tech:** Python, Machine Learning (KNN, Decision Trees, Logistic Regression). 
 * **The Goal:** To build a high-accuracy classification system while mastering data processing techniques used in automated quality control and inventory optimization. 
 
-#### 💰 Budget Analytics Dashboard (https://github.com/amoyaroj/smart-budgeting-app)
+#### 💰 Budget Analytics Dashboard (https://github.com/amoyaroj/budget-analytics-dashboard)
 * **The Build:** A personal finance management tool that automates expense tracking.
 * **The Tech:** Python. 
 * **The Goal:** Bridging data automation with personal financial literacy.
