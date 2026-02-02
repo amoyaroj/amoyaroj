@@ -32,12 +32,7 @@ I am an engineer by training and a financier by choice. I specialize in leveragi
 #### 📟 ESP32 Real-Time Stock Tracker 
 * **The Build:** Currently builing an ESP32 powered desktop display using a 64x32 LED matrix.
 * **The Tech:** C++, Arduino IDE. 
-* **The Goal:** Live portfolio monitoring with a 2-minute refresh rate.
-
-#### 📊 Investment Case Study Portfolio 
-* **The Build:** A Deal Book featuring 5-slide investment pitch decks on US Tech companies.
-* **The Tech:** DCF Modeling, Python, Seaborn.
-* **The Goal:** Building essential financial modelling and interpretation skills in specific industries and economic contexts. 
+* **The Goal:** Live portfolio monitoring with a 2-minute refresh rate. 
 
 ---
 
